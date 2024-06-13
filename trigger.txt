@@ -1,1 +1,1 @@
-alpine:3.17 registry.cn-chengdu.aliyuncs.com/webase/alpine:3.17
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3 registry.cn-chengdu.aliyuncs.com/webase/elasticsearch:8.11.3
