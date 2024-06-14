@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3 registry.cn-chengdu.aliyuncs.com/webase/elasticsearch:8.11.3
+docker.elastic.co/elasticsearch/elasticsearch:7.1.1 registry.cn-chengdu.aliyuncs.com/webase/elasticsearch:7.1.1
