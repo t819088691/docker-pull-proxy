@@ -1,1 +1,1 @@
-dqzboy/mirror-hub:latest registry.cn-chengdu.aliyuncs.com/webase/mirror-hub:latest
+dqzboy/mirror-hub:latest t819088691/mirror-hub:latest
