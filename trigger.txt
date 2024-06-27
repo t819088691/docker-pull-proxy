@@ -1,1 +1,1 @@
-dqzboy/mirror-hub:latest t819088691/mirror-hub:latest
+mysql:5.7.44 registry.cn-chengdu.aliyuncs.com/webase/mysql:5.7.44
