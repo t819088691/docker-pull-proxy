@@ -1,1 +1,1 @@
-mysql:5.7.44 registry.cn-chengdu.aliyuncs.com/webase/mysql:5.7.44
+docker.elastic.co/elasticsearch/elasticsearch:7.14.0 registry.cn-chengdu.aliyuncs.com/webase/elasticsearch:7.14.0
